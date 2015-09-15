@@ -1,0 +1,14 @@
+.sidebar {
+  width: 25%;
+  float: right;
+  background-color: #D3D3D3;
+  }
+
+.shows {
+  text-align: right;
+}
+
+.image1 {
+  float: left;
+  width: 30%
+}
