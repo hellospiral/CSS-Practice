@@ -2,6 +2,9 @@
   width: 25%;
   float: right;
   background-color: #D3D3D3;
+  border: 3px dashed grey;
+  padding: 6px;
+  margin: 20px;
   }
 
 .shows {
@@ -10,5 +13,6 @@
 
 .image1 {
   float: left;
-  width: 30%
+  width: 30%;
+  padding: 10px;
 }
