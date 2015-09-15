@@ -1,26 +1,5 @@
-.intro {
-  width: 50%;
-  font-style: italic;
-  font-family: Arial;
-}
-
-.first{
-  text-align: center;
-  text-shadow: blue;
-}
-
-.second{
-  font-weight: bold;
-  letter-spacing: 2%;
-}
-
-.third{
-  border-width: 2px;
-  color:#7AD4B7;
-}
-
-.about {
-  text-indent: 25%;
-  font-family: Courier;
-  font-weight: 800;
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: yellow;
 }
